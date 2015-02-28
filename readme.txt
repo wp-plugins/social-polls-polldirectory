@@ -1,7 +1,7 @@
 ﻿=== Polls ===
 Contributors: Ioannis Knithou
-Donate link: http://polldirectory.net
-Tags: poll, polls, polling, vote, voting, debate, survey, social, surveys
+Donate link: http://free.polldirectory.net/
+Tags: poll, polls, polling, vote, voting, debate, survey, social, surveys, widget, post, posts, plugin, question, answer, page, pages, template
 Requires at least: 2.8
 Tested up to: 4.1
 License: GPLv2 or later

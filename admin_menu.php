@@ -1,5 +1,5 @@
 <style>
-.opinionstage-wrap {
+.opoll-wrap {
     background-color: #fafbfc;
     border: 1px solid #d2e0f0;
     margin: 10px auto;
@@ -32,7 +32,7 @@ h2 {
     font-size: 17px;
     text-decoration: none;
 }
-#opinionstage-head {
+#opoll-head {
     background: url("<?php echo WP_CONTENT_URL; ?>/plugins/social_polls/background.png") repeat-x scroll 0 0 #1f253a;
     color: rgba(255, 255, 255, 0.7);
     font-size: 20px;
@@ -44,8 +44,8 @@ h2 {
 }
 </style>
 
-<div class="opinionstage-wrap">
-<div id="opinionstage-head"><h1>Social Polls</h1></div>
+<div class="opoll-wrap">
+<div id="opoll-head"><h1>Social Polls</h1></div>
 	<div class="section">
 	<h2>Actions</h2>
 		<ul class="os_links_list">
